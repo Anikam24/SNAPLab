@@ -1,0 +1,141 @@
+video name: 032824_COOPTRAIN_LARGEARENA_KL002B-KL002Y_Camera2.mp4
+intial nan: 60.7 %, after out nan: 60.91 %, final nan: 0.0 %
+video name: 032824_COOPTRAIN_LARGEARENA_KL001B-KL001Y_Camera1.mp4
+intial nan: 87.74 %, after out nan: 88.28 %, final nan: 0.0 %
+video name: 032924_COOPTRAIN_LARGEARENA_KL001B-KL001Y_Camera1.mp4
+intial nan: 10.45 %, after out nan: 11.16 %, final nan: 0.0 %
+video name: 032924_COOPTRAIN_LARGEARENA_KL005B-KL005Y_Camera1.mp4
+intial nan: 8.37 %, after out nan: 8.72 %, final nan: 0.0 %
+video name: 032924_COOPTRAIN_LARGEARENA_KL002B-KL002Y_Camera2.mp4
+intial nan: 10.93 %, after out nan: 11.54 %, final nan: 0.0 %
+video name: 033024_COOPTRAIN_LARGEARENA_KL005B-KL005Y_Camera1.mp4
+intial nan: 6.83 %, after out nan: 7.24 %, final nan: 0.0 %
+video name: 033024_COOPTRAIN_LARGEARENA_KL001B-KL001Y_Camera1.mp4
+intial nan: 12.67 %, after out nan: 13.3 %, final nan: 0.0 %
+video name: 033024_COOPTRAIN_LARGEARENA_KL002B-KL002Y_Camera2.mp4
+intial nan: 9.25 %, after out nan: 9.81 %, final nan: 0.0 %
+video name: 033124_COOPTRAIN_LARGEARENA_KL002B-KL002Y_Camera2.mp4
+intial nan: 8.69 %, after out nan: 9.32 %, final nan: 0.0 %
+video name: 033124_COOPTRAIN_LARGEARENA_KL005B-KL005Y_Camera1.mp4
+intial nan: 9.97 %, after out nan: 10.38 %, final nan: 0.0 %
+video name: 033124_COOPTRAIN_LARGEARENA_KL001B-KL001Y_Camera1.mp4
+intial nan: 14.98 %, after out nan: 15.48 %, final nan: 0.0 %
+video name: 040124_COOPTRAIN_LARGEARENA_KL005B-KL005Y_Camera1.mp4
+intial nan: 12.35 %, after out nan: 12.71 %, final nan: 0.0 %
+video name: 040124_COOPTRAIN_LARGEARENA_KL001B-KL001Y_Camera1.mp4
+intial nan: 20.08 %, after out nan: 20.56 %, final nan: 0.0 %
+video name: 040124_COOPTRAIN_LARGEARENA_KL002B-KL002Y_Camera2.mp4
+intial nan: 13.81 %, after out nan: 14.45 %, final nan: 0.0 %
+video name: 040224_COOPTRAIN_LARGEARENA_KL002B-KL002Y_Camera2.mp4
+intial nan: 6.73 %, after out nan: 7.55 %, final nan: 0.0 %
+video name: 040224_COOPTRAIN_LARGEARENA_KL005B-KL005Y_Camera1.mp4
+intial nan: 14.13 %, after out nan: 14.62 %, final nan: 0.0 %
+video name: 040224_COOPTRAIN_LARGEARENA_KL001B-KL001Y_Camera1.mp4
+intial nan: 18.9 %, after out nan: 19.46 %, final nan: 0.0 %
+video name: 040324_COOPTRAIN_LARGEARENA_KL002B-KL002Y_Camera2.mp4
+intial nan: 11.44 %, after out nan: 11.95 %, final nan: 0.0 %
+video name: 040324_COOPTRAIN_LARGEARENA_KL001B-KL001Y_Camera1.mp4
+intial nan: 26.23 %, after out nan: 26.85 %, final nan: 0.0 %
+video name: 040324_COOPTRAIN_LARGEARENA_KL005B-KL005Y_Camera1.mp4
+intial nan: 7.73 %, after out nan: 8.24 %, final nan: 0.0 %
+video name: 040424_COOPTRAIN_LARGEARENA_KL005B-KL005Y_Camera1.mp4
+intial nan: 6.2 %, after out nan: 6.6 %, final nan: 0.0 %
+video name: 040524_COOPTRAIN_LARGEARENA_KL005B-KL005Y_Camera1.mp4
+intial nan: 11.36 %, after out nan: 11.86 %, final nan: 0.0 %
+video name: 040524_COOPTRAIN_LARGEARENA_KL002B-KL002Y_Camera2.mp4
+intial nan: 3.6 %, after out nan: 4.38 %, final nan: 0.0 %
+video name: 040524_COOPTRAIN_LARGEARENA_KL001B-KL001Y_Camera1.mp4
+intial nan: 9.2 %, after out nan: 9.85 %, final nan: 0.0 %
+video name: 040724_COOPTRAIN_LARGEARENA_KL001B-KL001Y_Camera1.mp4
+intial nan: 9.44 %, after out nan: 10.13 %, final nan: 0.0 %
+video name: 040724_COOPTRAIN_LARGEARENA_KL002B-KL002Y_Camera2.mp4
+intial nan: 8.0 %, after out nan: 8.73 %, final nan: 0.0 %
+video name: 040824_COOPTRAIN_LARGEARENA_KL005B-KL005Y_Camera1.mp4
+intial nan: 29.7 %, after out nan: 29.94 %, final nan: 0.0 %
+video name: 040824_COOPTRAIN_LARGEARENA_KL001B-KL001Y_Camera1.mp4
+intial nan: 5.76 %, after out nan: 6.49 %, final nan: 0.0 %
+video name: 040824_COOPTRAIN_LARGEARENA_KL002B-KL002Y_Camera2.mp4
+intial nan: 6.36 %, after out nan: 7.0 %, final nan: 0.0 %
+video name: 041024_COOPTRAIN_LARGEARENA_EB009B-EB019Y_Camera2.mp4
+intial nan: 12.23 %, after out nan: 12.8 %, final nan: 0.0 %
+video name: 041024_COOPTRAIN_LARGEARENA_EB031B-EB033Y_Camera3.mp4
+intial nan: 22.28 %, after out nan: 22.59 %, final nan: 0.0 %
+video name: 041124_COOPTRAIN_LARGEARENA_EB031B-EB033Y_Camera3.mp4
+intial nan: 18.29 %, after out nan: 18.69 %, final nan: 0.0 %
+video name: 041124_COOPTRAIN_LARGEARENA_EB009B-EB019Y_Camera4.mp4
+intial nan: 17.85 %, after out nan: 18.24 %, final nan: 0.0 %
+video name: 041224_COOPTRAIN_LARGEARENA_EB009B-EB019Y_Camera4.mp4
+intial nan: 36.25 %, after out nan: 36.76 %, final nan: 0.0 %
+video name: 041224_COOPTRAIN_LARGEARENA_EB031B-EB033Y_Camera3.mp4
+intial nan: 17.2 %, after out nan: 17.81 %, final nan: 0.0 %
+video name: 041324_COOPTRAIN_LARGEARENA_EB031B-EB033Y_Camera4.mp4
+intial nan: 22.28 %, after out nan: 22.55 %, final nan: 0.0 %
+video name: 041324_COOPTRAIN_LARGEARENA_EB009B-EB019Y_Camera3.mp4
+intial nan: 30.18 %, after out nan: 30.76 %, final nan: 0.0 %
+video name: 041424_COOPTRAIN_LARGEARENA_EB009B-EB019Y_Camera2.mp4
+intial nan: 30.31 %, after out nan: 30.54 %, final nan: 0.0 %
+video name: 041424_COOPTRAIN_LARGEARENA_EB031B-EB033Y_Camera3.mp4
+intial nan: 14.66 %, after out nan: 15.22 %, final nan: 0.0 %
+video name: 041524_COOPTRAIN_LARGEARENA_EB031B-EB033Y_Camera3.mp4
+intial nan: 18.31 %, after out nan: 18.82 %, final nan: 0.0 %
+video name: 041524_COOPTRAIN_LARGEARENA_EB009B-EB019Y_Camera2.mp4
+intial nan: 26.55 %, after out nan: 26.79 %, final nan: 0.0 %
+video name: 041624_COOPTRAIN_LARGEARENA_EB031B-EB033Y_Camera3.mp4
+intial nan: 11.18 %, after out nan: 11.78 %, final nan: 0.0 %
+video name: 041624_COOPTRAIN_LARGEARENA_EB009B-EB019Y_Camera2.mp4
+intial nan: 22.37 %, after out nan: 22.81 %, final nan: 0.0 %
+video name: 041824_COOPTRAIN_LARGEARENA_EB009B-EB033Y_Camera3.mp4
+intial nan: 11.7 %, after out nan: 12.2 %, final nan: 0.0 %
+video name: 041824_COOPTRAIN_LARGEARENA_EB003B-EB019Y_Camera2.mp4
+intial nan: 17.54 %, after out nan: 18.07 %, final nan: 0.0 %
+video name: 041924_COOPTRAIN_LARGEARENA_EB003B-EB019Y_Camera2.mp4
+intial nan: 16.92 %, after out nan: 17.43 %, final nan: 0.0 %
+video name: 041924_COOPTRAIN_LARGEARENA_EB009B-EB033Y_Camera3.mp4
+intial nan: 13.05 %, after out nan: 13.63 %, final nan: 0.0 %
+video name: 042224_COOPTRAIN_LARGEARENA_EB003B-EB019Y_Camera2.mp4
+intial nan: 17.87 %, after out nan: 18.42 %, final nan: 0.0 %
+video name: 042224_COOPTRAIN_LARGEARENA_EB009B-EB033Y_Camera3.mp4
+intial nan: 11.48 %, after out nan: 12.14 %, final nan: 0.0 %
+video name: 042324_COOPTRAIN_LARGEARENA_EB009B-EB033Y_Camera3.mp4
+intial nan: 17.0 %, after out nan: 17.58 %, final nan: 0.0 %
+video name: 042324_COOPTRAIN_LARGEARENA_EB003B-EB019Y_Camera2.mp4
+intial nan: 19.83 %, after out nan: 20.44 %, final nan: 0.0 %
+video name: 042424_COOPTRAIN_LARGEARENA_EB003B-EB019Y_Camera2.mp4
+intial nan: 26.41 %, after out nan: 26.88 %, final nan: 0.0 %
+video name: 042424_COOPTRAIN_LARGEARENA_EB009B-EB033Y_Camera3.mp4
+intial nan: 15.46 %, after out nan: 15.91 %, final nan: 0.0 %
+video name: 042524_COOPTRAIN_LARGEARENA_EB009B-EB033Y_Camera3.mp4
+intial nan: 12.44 %, after out nan: 13.1 %, final nan: 0.0 %
+video name: 042524_COOPTRAIN_LARGEARENA_EB003B-EB019Y_Camera2.mp4
+intial nan: 22.31 %, after out nan: 22.6 %, final nan: 0.0 %
+video name: 061224_COOPTRAIN_LARGEARENA_HF003B-HF004Y_Camera2.mp4
+intial nan: 49.24 %, after out nan: 49.47 %, final nan: 0.0 %
+video name: 061824_COOPTRAIN_LARGEARENA_HF003B-HF004Y_Camera2.mp4
+intial nan: 49.66 %, after out nan: 49.86 %, final nan: 0.0 %
+video name: 062024_COOPTRAIN_LARGEARENA_HF003B-HF004Y_Camera2.mp4
+intial nan: 49.55 %, after out nan: 49.86 %, final nan: 0.0 %
+video name: 062424_COOPTRAIN_LARGEARENA_HF003B-HF004Y_Camera2.mp4
+intial nan: 49.63 %, after out nan: 49.84 %, final nan: 0.0 %
+video name: 070224_COOPTRAIN_LARGEARENA_HF003B-HF004Y_Camera2.mp4
+intial nan: 49.64 %, after out nan: 49.87 %, final nan: 0.0 %
+video name: 070324_COOPTRAIN_LARGEARENA_HF003B-HF004Y_Camera2.mp4
+intial nan: 49.04 %, after out nan: 49.37 %, final nan: 0.0 %
+video name: 070524_COOPTRAIN_LARGEARENA_HF003B-HF004Y_Camera2.mp4
+intial nan: 48.75 %, after out nan: 49.16 %, final nan: 0.0 %
+video name: 070824_COOPTRAIN_LARGEARENA_HF003B-HF004Y_Camera2.mp4
+intial nan: 49.26 %, after out nan: 49.66 %, final nan: 0.0 %
+video name: 070924_COOPTRAIN_LARGEARENA_HF003B-HF004Y_Camera2.mp4
+intial nan: 49.39 %, after out nan: 49.69 %, final nan: 0.0 %
+video name: 071024_COOPTRAIN_LARGEARENA_HF003B-HF004Y_Camera2.mp4
+intial nan: 49.41 %, after out nan: 49.73 %, final nan: 0.0 %
+video name: 071124_COOPTRAIN_LARGEARENA_HF003B-HF004Y.txt_Camera2.mp4
+intial nan: 49.53 %, after out nan: 49.81 %, final nan: 0.0 %
+video name: 071224_COOPTRAIN_LARGEARENA_HF003B-HF004Y_Camera3.mp4
+intial nan: 49.64 %, after out nan: 49.89 %, final nan: 0.0 %
+video name: 071524_COOPTRAIN_LARGEARENA_HF003B-HF004Y_Camera3.mp4
+intial nan: 49.57 %, after out nan: 49.88 %, final nan: 0.0 %
+video name: 071624_COOPTRAIN_LARGEARENA_HF003B-HF004Y_Camera2.mp4
+intial nan: 49.19 %, after out nan: 49.54 %, final nan: 0.0 %
+totals:
+intial nan: 23.99 %, after out nan: 24.46 %, final nan: 0.0 %
+time elapse: 562.2791967391968
