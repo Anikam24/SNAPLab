@@ -6,12 +6,8 @@ from matplotlib import pyplot as plt
 # at every timestep
 def find_node_velocity(node_locs):
     vels = np.zeros((node_locs.shape[0] - 1))
-    num_stab = 1**-20
     for j in range(node_locs.shape[0] - 1):
-        d_y = (node_locs[j, 1] - node_locs[j + 1, 1]) + num_stab
-        d_x = (node_locs[j, 0] - node_locs[j + 1, 0]) + num_stab
-        vel_temp =  (d_y / d_x)[0]
-        vels[j] = vel_temp
+        vels[j] = np.sqrt(np.sum(np.square(node_locs[j] - node_locs[j+1])))
     # anything that nan is changed to 0 to make my life easier
     vels = [0 if np.isnan(x) else x for x in vels]
     return vels
